@@ -1,0 +1,8 @@
+# Don’t track Terraform state or plugins
+terraform/.terraform/
+terraform/*.tfstate*
+terraform/.terraform.lock.hcl
+
+# Ignore local API runtime files
+api/__pycache__/
+*.pyc
