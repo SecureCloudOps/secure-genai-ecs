@@ -1,4 +1,24 @@
 # DevSecOps: Secure GenAI API on AWS ECS 🚀🔐
+<p align="left">
+
+  <!-- Core Technologies -->
+  <img src="https://img.shields.io/badge/AWS-ECS%20Fargate-success?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/API-GenAI-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infrastructure-Terraform-purple?style=flat-square&logo=terraform" />
+  <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=docker" />
+
+  <!-- Security Focus -->
+  <img src="https://img.shields.io/badge/Security-Shift--Left-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/IaC%20Scan-tfsec-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Compliance-Checkov-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Runtime-WAF-informational?style=flat-square" />
+
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/Pipeline-GitHub%20Actions-success?style=flat-square&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Build-Automated-blue?style=flat-square" />
+
+</p>
+
 
 **Author**: Mohamed A. Mohamed 
 
